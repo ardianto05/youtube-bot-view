@@ -1,6 +1,6 @@
 ﻿@echo off
 cls
-title Beta YTBOT v4.2.1.2 by ardianto
+title BOT YOUTUBE VIEWER v1 by ardianto elektronika
 color a
 echo off
 echo=================================================================================================================
