@@ -1,8 +1,10 @@
 # Youtube-view-Bot-by-ardianto-elektronika
+
 viewer Youtube Bot | tidak ada virus | Batch Windows
 Bot ini hanyalah skrip otomatis yang digunakan untuk mengklik dan meningkatkan waktu menonton di video Youtube.
+
 1. Browser yang dipilih haruslah browser standar!
-2. Buka file YTBOT.bat
+2. langsung jalankan BOT YOUTUBE VIEWER.bat
 3. Direkomendasikan untuk menggunakan Chrome
 4. Ikuti instruksinya
 
